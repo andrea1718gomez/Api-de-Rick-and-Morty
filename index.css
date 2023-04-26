@@ -1,0 +1,25 @@
+/* .imagen{
+    background-image: url(./imagenes-2/meteorito-2.gif);
+    background-repeat: no-repeat;
+    background-size: 100rem;
+} */
+
+.tamaño{
+    width: 40%;
+    margin-left: 30%;
+}
+
+.fondo{
+    background-image:url(./imagenes-2/meteorito-2.gif);
+    background-size: 100rem;
+  
+}
+
+a:hover{
+    background-color: rosybrown;
+    border-radius: 8px;
+}
+
+.sobre:hover{
+    background-color: black;
+}
